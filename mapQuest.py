@@ -2,15 +2,6 @@ import urllib.parse
 
 import requests
 
-#EDIT by PRADO
-#EDIT by PRADO
-#EDIT by PRADO
-#EDIT by PRADO
-#EDIT by PRADO
-#EDIT by PRADO
-#EDIT by PRADO
-#EDIT by PRADO
-
 
 import colorama
 from colorama import Fore, Back, Style
@@ -97,3 +88,13 @@ while True:
         print(Fore.WHITE +Style.DIM + Back.BLUE +"https://developer.mapquest.com/documentation/directions-api/status-codes")
 
         print(Fore.WHITE +Style.DIM + Back.BLUE +"************************************************************************\n")
+
+
+        #EDIT by PRADO
+#EDIT by PRADO
+#EDIT by PRADO
+#EDIT by PRADO
+#EDIT by PRADO
+#EDIT by PRADO
+#EDIT by PRADO
+#EDIT by PRADO
